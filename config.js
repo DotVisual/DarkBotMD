@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By ZizCodingDE.
+   * Contact Me on wa.me/628999109535
+   * Follow https://github.com/DotVisual
 */
 
 const fs = require('fs')
@@ -18,12 +18,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281327441039', '6282230819722']
+global.owner = ['628999109535', '6285715873604']
 global.bsu = ['6281327441039']
 global.premium = ['6281327441039']
 global.pembeli = ['6281327441039', '6283111532238']
-global.packname = 'DarkBotMD'
-global.author = 'Mr_Dark'
+global.packname = 'ZizBot'
+global.author = 'ZizCodingDE'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
